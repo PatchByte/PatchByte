@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PatchByte/PatchByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # About Me
+
+- My name is Hendrik.
+- 13 Years old.
+- I love coding.
+
+# Programming Languages
+- C / ++
+- C#
+- HTML, CSS, JS(NodeJS)
+- Java
+- Python
