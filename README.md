@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - HTML, CSS, JS(NodeJS)
 - Java
 - Python
+
+## Have A Nice day!
