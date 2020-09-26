@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - I love coding.
 
 # Programming Languages
-- ![C#][https://unpkg.com/simple-icons@3.9.0/icons/csharp.svg]
+- ![C#](https://unpkg.com/simple-icons@3.9.0/icons/csharp.svg)
 - C / ++
 - C#
 - HTML, CSS, JS(NodeJS)
