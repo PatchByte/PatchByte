@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - I love coding.
 
 # Programming Languages
-- <img align="left" alt="I know C#" width="22px" src="https://unpkg.com/simple-icons@3.9.0/icons/csharp.svg" />
 - C / ++
 - C#
 - HTML, CSS, JS(NodeJS)
