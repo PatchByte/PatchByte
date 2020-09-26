@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 - HTML, CSS, JS(NodeJS)
 - Java
 - Python
-
-[<script></script>]
