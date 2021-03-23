@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 - My name is Hendrik.
 - 13 Years old.
-- I love coding.
+- I 💚 coding.
 
-# Programming Languages
+# Programming Languages 🎨
 - C / C++
+- C#
 - Java
 
 # Scripting Languages
