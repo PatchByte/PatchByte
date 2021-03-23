@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 - I love coding.
 
 # Programming Languages
-- C / ++
-- C#
-- HTML, CSS, JS(NodeJS)
+- C / C++
 - Java
+
+# Scripting Languages
 - Python
+- JS, NodeJS
