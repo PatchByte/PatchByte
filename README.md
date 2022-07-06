@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 # Scripting Languages
 - Python
 - JS, NodeJS
+
+# Stats
+![PatchByte's stats](https://github-readme-stats.vercel.app/api?username=PatchByte&theme=gruvbox&show_icons=true)
