@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 # About Me
 
 - My name is Hendrik.
-- 14 Years old.
-- I 💚 coding.
+- 15 Years old.
 
 # Programming Languages 🎨
 - C / C++
